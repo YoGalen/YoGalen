@@ -1,7 +1,9 @@
 ### 👋 Hi, I'm GlenYao
 
 🎓  Currently pursuing a Master's degree in Computer Science. Research interests include speech analysis for Alzheimer's disease and AI agents
+
 💼  Zoom AI Agentic Workflow InternshipR
+
 📍   Hangzhou
 
 ### 🛠 Tech Stack
@@ -20,5 +22,7 @@
 ### 🔥 Recently
 
 -  🔬  Research on AD speech classification based on multi-scale temporal perception
+
 -  🤖  Development of AutoGen Quantitative Trading Agent
+
 -  📚  In depth LLM Security and Agent Engineering

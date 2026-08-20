@@ -2,7 +2,7 @@
 
 🎓  Currently pursuing a Master's degree in Computer Science. Research interests include speech analysis for Alzheimer's disease and AI agents
 
-💼  Zoom AI Agentic Workflow InternshipR
+💼  Zoom AI Agentic Workflow Internship
 
 📍   Hangzhou
 
@@ -22,6 +22,8 @@
 ### 🔥 Recently
 
 -  🔬  Research on AD speech classification based on multi-scale temporal perception
+
+-  💬  CUI 2 Agentic Workflow Harness in ZOOM
 
 -  🤖  Development of AutoGen Quantitative Trading Agent
 
